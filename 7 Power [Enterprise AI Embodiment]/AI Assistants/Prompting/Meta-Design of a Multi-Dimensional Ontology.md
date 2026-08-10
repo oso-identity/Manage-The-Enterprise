@@ -1,8 +1,9 @@
-# Design a Multi-Dimensional Ontology
+# Meta-Design of a Multi-Dimensional Ontology
 
 ## Dimensional Integrity
 ```none
-Meta-design principles / quality criteria for constructing a good multi-dimensional ontology
+"Dimensional Integrity" criteria
+(Does each dimension legitimately belong in the dimensional architecture?)
 │
 ├── A. Coverage criteria
 │   │
