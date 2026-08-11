@@ -1,7 +1,7 @@
 # Criteria for the Meta-Design of a Multi-Dimensional Ontology for interpreting Knowledge-Reality
 
 ```none
-Dimensional Integrity
+I. Dimensional Integrity
 (Core question: Does each dimension legitimately belong in the dimensional architecture?)
 (Protects against: Admitting invalid dimensions into the ontology)
 │
@@ -41,7 +41,7 @@ Dimensional Integrity
 
 
 
-Ontology Quality
+II. Ontology Quality
 (Core question: How well is the ontology constructed and implemented?)
 (Protects against: )
 │
