@@ -1,4 +1,4 @@
-# Criteria for the Meta-Design of a Multi-Dimensional Ontology
+# Criteria for the Meta-Design of a Multi-Dimensional Ontology for interpreting Knowledge-Reality
 
 ## Dimensional Integrity criteria
 ```none
@@ -13,11 +13,11 @@ Dimensional Integrity
 │   │   (Protects against: Missing conceptual territory)
 │   │
 │   ├── Scope Adequacy
-│   │   (Core question: )
+│   │   (Core question: Did we define the right territory for the ontology's intended purpose?)
 │   │   (Protects against: )
 │   │
 │   ├── Context Coverage
-│   │   (Core question: )
+│   │   (Core question: Have we accounted for the relevant contexts that materially affect that territory?)
 │   │   (Protects against: )
 │   │
 │   └── Completeness
@@ -49,7 +49,12 @@ Dimensional Integrity
 │   │
 │   ├── Granularity
 │   ├── Parsimony
-│   ├── Composability
+│   └── Composability
+│
+│
+├── D. Robustness & Evolution
+│   │
+│   ├── Context Independence
 │   ├── Scalability
 │   └── Extensibility
 │
