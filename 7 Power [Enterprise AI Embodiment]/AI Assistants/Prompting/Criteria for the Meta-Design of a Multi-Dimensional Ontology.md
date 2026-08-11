@@ -8,31 +8,38 @@ Dimensional Integrity
 │
 ├── A. Coverage
 │   │
-│   ├── Exhaustiveness
-│   │   (Does the ontology cover everything that needs to be represented?)
+│   ├── * Exhaustiveness
+│   │   (Core question: Does the ontology cover everything that needs to be represented?)
+│   │   (Protects against: Missing conceptual territory)
 │   │
 │   ├── Completeness
+│   │   (Core question: Are all relevant relationships, properties, states, processes, etc. represented?)
+│   │   (Protects against: Missing relationships/properties)
+│   │
 │   ├── Context Coverage
+│   │   (Core question: )
+│   │   (Protects against: )
+│   │
 │   └── Scope Adequacy
 │
 ├── B. Separation
 │   │
-│   ├── Orthogonality
+│   ├── * Orthogonality
 │   │   │
 │   │   └── Dimensional Independence
 │   │       "Can dimensions vary independently
 │   │        without one determining the other?"
 │   │
-│   ├── Functional Distinctiveness
+│   ├── * Functional Distinctiveness
 │   ├── Mutual Exclusivity
 │   ├── Non-Redundancy
 │   └── Boundary Clarity
 │
 ├── C. Ontological validity
 │   │
-│   ├── Ontological Fidelity
-│   ├── Ontological Uniformity
-│   ├── Abstraction Consistency
+│   ├── * Ontological Fidelity
+│   ├── * Ontological Uniformity
+│   ├── * Abstraction Consistency
 │   ├── Coherence
 │   └── Consistency
 │
