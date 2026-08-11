@@ -132,6 +132,7 @@ Criteria for the Meta-Design of a Multi-Dimensional Ontology for interpreting a 
         │   (Protects against: )
         │
         └── Generativity
-            (Core question: Does the ontology enable useful new classifications, insights, predictions, or deductions?)
+            (Core question: Does the ontology enable useful new classifications, insights, predictions,
+            or deductions?)
             (Protects against: )
 ```
