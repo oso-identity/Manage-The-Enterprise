@@ -134,35 +134,4 @@ Criteria for the Meta-Design of a Multi-Dimensional Ontology for interpreting a 
         └── Generativity
             (Core question: Does the ontology enable useful new classifications, insights, predictions, or deductions?)
             (Protects against: )
-
-
-els/categories?)
-    │   (Protects against: )
-    │
-    └── Abstraction Consistency
-        (Core question: Are concepts being compared at equivalent levels of abstraction?)
-        (Protects against: )
-
-
-
-II. Ontology Quality
-(Core question: How well is the ontology constructed and implemented?)
-(Protects against: )
-│
-├── A. Coverage & Scope
-│   │
-│   ├── Scope Adequacy
-│   │   (Core question: Did we define the right territory for the ontology's intended purpose?)
-│   │   (Protects against: )
-│   │
-│   ├── Context Coverage
-│   │   (Core question: Have we accounted for the relevant contexts that materially affect that territory?)
-│   │   (Protects against: )
-│   │
-│   └── Completeness
-│       (Core question: Within the defined scope and relevant contexts, have we represented
-│       all necessary concepts, properties, relationships, and states?)
-
-
-
 ```
