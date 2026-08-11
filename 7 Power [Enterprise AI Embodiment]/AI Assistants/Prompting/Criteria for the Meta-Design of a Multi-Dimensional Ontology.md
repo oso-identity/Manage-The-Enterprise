@@ -6,21 +6,23 @@ Dimensional Integrity
 (Core question: Does each dimension legitimately belong in the dimensional architecture?)
 (Protects against: Admitting invalid dimensions into the ontology)
 │
-├── A. Coverage
+├── A. Coverage & Scope
 │   │
 │   ├── * Exhaustiveness
 │   │   (Core question: Does the ontology cover everything that needs to be represented?)
 │   │   (Protects against: Missing conceptual territory)
 │   │
-│   ├── Completeness
-│   │   (Core question: Are all relevant relationships, properties, states, processes, etc. represented?)
-│   │   (Protects against: Missing relationships/properties)
+│   ├── Scope Adequacy
+│   │   (Core question: )
+│   │   (Protects against: )
 │   │
 │   ├── Context Coverage
 │   │   (Core question: )
 │   │   (Protects against: )
 │   │
-│   └── Scope Adequacy
+│   └── Completeness
+│       (Core question: Within the defined scope and relevant contexts, have we represented all necessary concepts, properties, relationships, and states?
+│       (Protects against: Missing concepts, properties, relationships, or states)
 │
 ├── B. Separation
 │   │
