@@ -90,7 +90,8 @@ Dimensional Integrity
 ├── D. Robustness & Evolution
 │   │
 │   ├── Context Independence
-│   │   (Core question: Does the ontology remain valid across different contexts, or are contextual assumptions explicit?)
+│   │   (Core question: Does the ontology remain valid across different contexts, or are contextual
+│   │   assumptions explicit?)
 │   │   (Protects against: )
 │   │
 │   ├── Scalability
