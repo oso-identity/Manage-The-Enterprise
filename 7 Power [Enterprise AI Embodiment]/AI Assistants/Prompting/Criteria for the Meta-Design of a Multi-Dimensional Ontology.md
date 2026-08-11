@@ -21,7 +21,8 @@ Dimensional Integrity
 │   │   (Protects against: )
 │   │
 │   └── Completeness
-│       (Core question: Within the defined scope and relevant contexts, have we represented all necessary concepts, properties, relationships, and states?
+│       (Core question: Within the defined scope and relevant contexts, have we represented
+│       all necessary concepts, properties, relationships, and states?)
 │       (Protects against: Missing concepts, properties, relationships, or states)
 │
 ├── B. Separation
