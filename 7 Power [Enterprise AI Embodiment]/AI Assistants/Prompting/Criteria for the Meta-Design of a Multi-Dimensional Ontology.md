@@ -1,26 +1,34 @@
-# Meta-Design of a Multi-Dimensional Ontology
+# Criteria for the Meta-Design of a Multi-Dimensional Ontology
 
-## Dimensional Integrity
+## Dimensional Integrity criteria
 ```none
-"Dimensional Integrity" criteria
-(Does each dimension legitimately belong in the dimensional architecture?)
+Dimensional Integrity
+(Core question: Does each dimension legitimately belong in the dimensional architecture?)
+(Protects against: Admitting invalid dimensions into the ontology)
 │
-├── A. Coverage criteria
+├── A. Coverage
 │   │
 │   ├── Exhaustiveness
+│   │   (Does the ontology cover everything that needs to be represented?)
+│   │
 │   ├── Completeness
 │   ├── Context Coverage
 │   └── Scope Adequacy
 │
-├── B. Separation criteria
+├── B. Separation
 │   │
 │   ├── Orthogonality
+│   │   │
+│   │   └── Dimensional Independence
+│   │       "Can dimensions vary independently
+│   │        without one determining the other?"
+│   │
 │   ├── Functional Distinctiveness
 │   ├── Mutual Exclusivity
 │   ├── Non-Redundancy
 │   └── Boundary Clarity
 │
-├── C. Ontological validity criteria
+├── C. Ontological validity
 │   │
 │   ├── Ontological Fidelity
 │   ├── Ontological Uniformity
@@ -28,7 +36,7 @@
 │   ├── Coherence
 │   └── Consistency
 │
-├── D. Structural criteria
+├── D. Structural
 │   │
 │   ├── Granularity
 │   ├── Parsimony
@@ -36,7 +44,7 @@
 │   ├── Scalability
 │   └── Extensibility
 │
-└── E. Practical criteria
+└── E. Practical
     │
     ├── Interpretability
     ├── Operationalizability
