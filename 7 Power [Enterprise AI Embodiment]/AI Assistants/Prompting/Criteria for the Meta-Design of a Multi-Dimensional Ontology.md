@@ -27,8 +27,7 @@ Dimensional Integrity
 │   ├── * Orthogonality
 │   │   │
 │   │   └── Dimensional Independence
-│   │       "Can dimensions vary independently
-│   │        without one determining the other?"
+│   │       (Core question: Can dimensions vary independently without one determining the other?)
 │   │
 │   ├── * Functional Distinctiveness
 │   ├── Mutual Exclusivity
