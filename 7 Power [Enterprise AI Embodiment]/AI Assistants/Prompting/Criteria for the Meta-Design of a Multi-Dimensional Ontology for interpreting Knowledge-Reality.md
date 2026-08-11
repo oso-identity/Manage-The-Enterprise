@@ -1,4 +1,4 @@
-# Criteria for the Meta-Design of a Multi-Dimensional Ontology for interpreting Knowledge-Reality
+# Criteria for the Meta-Design of a Multi-Dimensional Ontology for interpreting a scope of reality 
 
 ```none
 I. Dimensional Integrity
