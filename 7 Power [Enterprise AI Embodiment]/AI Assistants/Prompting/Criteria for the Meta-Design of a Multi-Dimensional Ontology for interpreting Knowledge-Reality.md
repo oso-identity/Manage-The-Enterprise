@@ -36,78 +36,92 @@ Dimensional Integrity
 │   │       (Protects against: )
 │   │
 │   ├── * Functional Distinctiveness
-│   │   (Core question: )
+│   │   (Core question: Does each dimension provide a meaningfully different analytical function?)
 │   │   (Protects against: )
 │   │
 │   ├── Mutual Exclusivity
-│   │   (Core question: )
+│   │   (Core question: Can an element be classified unambiguously within a dimension?)
 │   │   (Protects against: )
 │   │
 │   ├── Non-Redundancy
-│   │   (Core question: )
+│   │   (Core question: Does each construct add information rather than duplicate another construct?)
 │   │   (Protects against: )
 │   │
 │   └── Boundary Clarity
-│       (Core question: )
+│       (Core question: Are the boundaries between dimensions and concepts explicit?)
 │       (Protects against: )
 │
 ├── C. Ontological validity
 │   │
 │   ├── * Ontological Fidelity
-│   │   (Core question: )
+│   │   (Core question: Does the ontology accurately represent the underlying domain/reality?)
 │   │   (Protects against: )
 │   │
 │   ├── * Ontological Uniformity
-│   │   (Core question: )
+│   │   (Core question: Are dimensions operating at comparable ontological levels/categories?)
 │   │   (Protects against: )
 │   │
 │   ├── * Abstraction Consistency
-│   │   (Core question: )
+│   │   (Core question: Are concepts being compared at equivalent levels of abstraction?)
 │   │   (Protects against: )
 │   │
 │   ├── Coherence
-│   │   (Core question: )
+│   │   (Core question: Do the concepts form a logically intelligible whole?)
 │   │   (Protects against: )
 │   │
 │   └── Consistency
-│       (Core question: )
+│       (Core question: Can the ontology avoid contradictory classifications or assertions?)
 │       (Protects against: )
 │
 ├── D. Structural
 │   │
 │   ├── Granularity
-│   │   (Core question: )
+│   │   (Core question: Is the level of detail appropriate and consistent?)
 │   │   (Protects against: )
 │   │
 │   ├── Parsimony
-│   │   (Core question: )
+│   │   (Core question: Does the ontology avoid unnecessary dimensions/concepts?)
 │   │   (Protects against: )
 │   │
 │   └── Composability
-│       (Core question: )
+│       (Core question: Can dimensions be combined without creating conceptual contradictions?)
 │       (Protects against: )
 │
 ├── D. Robustness & Evolution
 │   │
 │   ├── Context Independence
-│   │   (Core question: )
+│   │   (Core question: Does the ontology remain valid across different contexts, or are contextual assumptions explicit?)
 │   │   (Protects against: )
 │   │
 │   ├── Scalability
-│   │   (Core question: )
+│   │   (Core question: Can the ontology accommodate additional concepts without structural degradation?)
 │   │   (Protects against: )
 │   │
 │   └── Extensibility
-│       (Core question: )
+│       (Core question: Can new dimensions or concepts be added without redesigning the entire ontology?)
 │       (Protects against: )
 │
 └── E. Practical
     │
     ├── Interpretability
+    │   (Core question: Can humans understand what each dimension and concept means?)
+    │   (Protects against: )
+    │
     ├── Operationalizability
+    │   (Core question: Can concepts actually be identified, classified, measured, or applied?)
+    │   (Protects against: )
+    │
     ├── Verifiability
+    │   (Core question: Can classifications and relationships be tested against evidence?)
+    │   (Protects against: )
+    │
     ├── Traceability
+    │   (Core question: Can each ontological construct be traced back to its underlying rationale/evidence?)
+    │   (Protects against: )
+    │
     └── Generativity
+        (Core question: Does the ontology enable useful new classifications, insights, predictions, or deductions?)
+        (Protects against: )
 ```
 
 ## Quality Design criteria
